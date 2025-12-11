@@ -1,0 +1,7 @@
+pandas
+boto3
+pyarrow
+sqlalchemy
+pymysql   
+reportlab
+PyPDF2
